@@ -1,4 +1,4 @@
-# Hi there, I'm [Jess] 👋
+# Hi there, I'm [Jes Green] 👋
 
 ## About Me
 
@@ -21,23 +21,17 @@
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SmokyDaBear&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SmokyDaBear&layout=compact&theme=dark)
 
 ## 🚀 Featured Projects
 
-### [Project Name 1](https://github.com/yourusername/project1)
-Brief description of what this project does and the technologies used.
+### [Message Encrypter](https://smokydabear.github.io/message-encryption-site/)
+A website that uses some basic code to encrypt messages, allowing custom encryption keys and other settings.
 - 🔧 Built with: HTML, CSS, JavaScript
-- 🌟 Key features: Feature 1, Feature 2, Feature 3
-- 🔗 [Live Demo](https://yourusername.github.io/project1)
-
-### [Project Name 2](https://github.com/yourusername/project2)
-Brief description of what this project does and the technologies used.
-- 🔧 Built with: HTML, CSS, JavaScript
-- 🌟 Key features: Feature 1, Feature 2, Feature 3
-- 🔗 [Live Demo](https://yourusername.github.io/project2)
+- 🌟 Key features: Message Encryption and Decryption, customizable settings, live changes while typing
+- 🔗 [Live Demo](https://smokydabear.github.io/message-encryption-site/)
 
 ## 📈 Current Goals
 
@@ -49,10 +43,10 @@ Brief description of what this project does and the technologies used.
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://yourusername.github.io)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jes-green)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://SmokyDaBear.github.io)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:verdantwebworks@gmail.com)
 
 ---
 
-⭐️ From [yourusername](https://github.com/yourusername)
+⭐️ From [SmokyDaBear](https://github.com/SmokyDaBear)
