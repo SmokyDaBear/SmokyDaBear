@@ -1,4 +1,4 @@
-# Hi there, I'm [Jes Green] 👋
+# Hi there, I'm Jes Green 👋
 
 ## About Me
 
