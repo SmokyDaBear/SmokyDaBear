@@ -26,7 +26,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SmokyDaBear&layout=compact&theme=dark)
 
 ## Code Wars Stats
-[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=SmokyDaBear&theme=dark&border-color=rgba(60,90,60)](https://github.com/SmokyDaBear/github-readme-codewars)
+[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=SmokyDaBear&theme=dark&border-color=rgb(60,90,60)](https://github.com/SmokyDaBear/github-readme-codewars)
 </br>
 <img style="display: block;" src="https://www.codewars.com/users/SmokyDaBear/badges/small"/>
 
