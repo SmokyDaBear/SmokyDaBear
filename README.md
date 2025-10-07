@@ -27,7 +27,8 @@
 
 ## Code Wars Stats
 [![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=SmokyDaBear)](https://github.com/SmokyDaBear/github-readme-codewars)
-<img style="display: block; width: 100%;" src="https://www.codewars.com/users/SmokyDaBear/badges/small"/>
+</br>
+<img style="display: block;" src="https://www.codewars.com/users/SmokyDaBear/badges/small"/>
 
 ## 🚀 Featured Projects
 
