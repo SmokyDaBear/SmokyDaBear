@@ -25,6 +25,9 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SmokyDaBear&layout=compact&theme=dark)
 
+## Code Wars Stats
+![https://www.codewars.com/users/SmokyDaBear/badges/small]
+
 ## 🚀 Featured Projects
 
 ### [Message Encrypter](https://smokydabear.github.io/message-encryption-site/)
