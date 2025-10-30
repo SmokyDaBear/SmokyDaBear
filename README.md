@@ -2,11 +2,11 @@
 
 ## About Me
 
-🎓 Currently learning web development at Devslopes 
+🎓 Continually learning web development
 
 💻 Passionate about creating user-friendly web applications
 
-🌱 Learning HTML, CSS, JavaScript, React, SQL and modern web frameworks
+🌱 React, Express, SQL and modern web frameworks
 
 📫 How to reach me: [verdantwebworks@gmail.com](mailto:verdantwebworks@gmail.com)
 
@@ -40,11 +40,10 @@ A website that uses some basic code to encrypt messages, allowing custom encrypt
 
 ## 📈 Current Goals
 
-- [ ] Complete Devslopes web development course
 - [ ] Build a full-stack application
 - [ ] Contribute to open source projects
-- [ ] Learn React 
-- [ ] Improve my CSS animation skills
+- [ ] Improve React, and database skills
+- [ ] Create a fully functional API
 
 ## 🤝 Connect with Me
 
