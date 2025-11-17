@@ -2,7 +2,7 @@
 
 ## About Me
 
-🎓 Continually learning web development
+🎓 Continually learning software and web development
 
 💻 Passionate about creating user-friendly web applications
 
@@ -32,11 +32,18 @@
 
 ## 🚀 Featured Projects
 
-### [Message Encrypter](https://smokydabear.github.io/message-encryption-site/)
-A website that uses some basic code to encrypt messages, allowing custom encryption keys and other settings.
-- 🔧 Built with: HTML, CSS, JavaScript
-- 🌟 Key features: Message Encryption and Decryption, customizable settings, live changes while typing
-- 🔗 [Live Demo](https://smokydabear.github.io/message-encryption-site/)
+### [Verdant Webworks](https://verdant-webworks.vercel.app/)
+This is my home page, featuring some of the services that I offer.
+- Built with React, TypeScript, CSS
+- Form Submissions
+- Interactive Portfolio Showcase
+
+### [Notes Hub](https://smokydabear.github.io/code-wiki-app/?note=home.md&section=home)
+This started as a repo where I kept markdown files of notes, then I added interactivity including
+- Search Functionality
+- Indexing
+- History(Saves in localstorage on the device)
+- Also has a dark theme
 
 ## 📈 Current Goals
 
