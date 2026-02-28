@@ -19,12 +19,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SmokyDaBear&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SmokyDaBear&layout=compact&theme=dark)
-
 ## Code Wars Stats
 [![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=SmokyDaBear&theme=dark)](https://github.com/SmokyDaBear/github-readme-codewars)
 </br>
